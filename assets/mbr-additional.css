@@ -1312,12 +1312,20 @@ section.lazy-placeholder:after {
 }
 .cid-rTVj6jp4Pp .team-item .item-caption {
   background: #efefef;
-  min-height: 120px;
+  min-height: 80px;
+}
+.cid-rTVj6jp4Pp .team-item .item-caption2 {
+  background: #efefef;
+  min-height: 80px;
+  position: relative;
+  text-align: center;
+  line-height: 45px;
 }
 .cid-s1KWeYq2I8 {
   padding-top: 60px;
   padding-bottom: 75px;
   background-image: url("../../../assets/images/background1.jpg");
+  min-height: 700px;
 }
 .cid-s1KWeYq2I8 .carousel-item {
   justify-content: center;

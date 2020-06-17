@@ -12,18 +12,12 @@
 - Created CNAME;
 
 ##### Fixed
-- Changed "Matricule-se" section icons color;
-- Changed "Cursos" section card images;
-- Changed "Cursos" section card buttons;
+- Changed icons color in "Matricule-se" section;
+- Changed cards images in "Cursos" section;
+- Changed cards buttons in "Cursos" section;
 
-#### v0.2.0 - 11/06/2020
-##### Fixed
-- Wrong data being displayed in "Redações corrigidas" at 'Admin/Home' view;
-- Included script to show tooltips at 'Correction's layout;
-- Wrong layout position at 'Correction' validation;
-
+#### v0.2.0 - 16/06/2020
 ##### Added
-
 - Added "Depoimentos" section;
 - Added "Developed By:" text in web site's footer;
 
@@ -31,4 +25,13 @@
 
 - Changed "Equipe Master" card images;
 - Changed "Copyright" text;
+
+#### v0.2.1 - 17/06/2020
+#### Fixed
+
+- Fixed "Depoimentos" section height;
+
+#### Changed
+
+- Changed cards text in "Cursos" section;
 
