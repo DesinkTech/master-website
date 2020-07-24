@@ -27,11 +27,20 @@
 - Changed "Copyright" text;
 
 #### v0.2.1 - 17/06/2020
-#### Fixed
+##### Fixed
 
 - Fixed "Depoimentos" section height;
 
-#### Changed
+##### Changed
 
 - Changed cards text in "Cursos" section;
+
+#### v0.3.0 - 24/07/2020
+##### Added
+
+- New items in "Cursos" section;
+
+#### Changed
+
+- Changed cards title in "Cursos" section;
 
