@@ -44,3 +44,13 @@
 
 - Changed cards title in "Cursos" section;
 
+#### v0.4.0 - 06/10/2020
+##### Added
+
+- New items in "Cursos" section;
+
+#### Changed
+
+- Changed cards images in "Cursos" section;
+- Compressed cards images in "Equipe Master" section;  
+
